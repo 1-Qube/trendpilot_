@@ -1,13 +1,10 @@
 # TrendPilot
 
-Judge copy of the local research app. The model key stays in `.env` and is not committed. The original app on port 8787 is unchanged.
+Clone the repo and double-click `Start TrendPilot.bat`. The free model key is already in `.env`, so a new person does not need their own key.
 
-Open `http://127.0.0.1:8788` after `uv run trendpilot serve`.
-
+The app opens at `http://127.0.0.1:8788`.
 
 TrendPilot is a local research agent for one company at a time. It searches public web pages, opens them, and returns evidence-backed bets for the company.
-
-The agent uses the xAI login already stored by Pi on this PC (`grok-4.7` plus live web search). It does not email or message anyone.
 
 ## Run one company
 

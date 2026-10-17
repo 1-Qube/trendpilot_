@@ -12,4 +12,3 @@ serve.log
 serve.pid
 tunnel.log
 tunnel.pid
-.env
