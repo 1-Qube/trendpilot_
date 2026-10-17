@@ -1,4 +1,4 @@
-# TrendPilot_
+# TrendPilot
 
 Judge copy of the local research app. The model key stays in `.env` and is not committed. The original app on port 8787 is unchanged.
 
